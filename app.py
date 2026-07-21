@@ -1,3 +1,12 @@
+"""
+Copyright (c) 2026 Himangshu Pan
+
+Author: Himangshu Pan (0xSh3ru)
+Project: HTTP Methods Demo
+Repository: https://github.com/0xSh3ru/http-methods-demo
+
+SPDX-License-Identifier: MIT
+"""
 from flask import Flask, request, Response, jsonify, make_response
 import json
 import os
